@@ -1,4 +1,4 @@
-# zup-challenge
+# challenge
 
 ## Contexto:
 
