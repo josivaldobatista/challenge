@@ -34,7 +34,7 @@ build/
 
 ### VS Code ###
 .vscode/
-movieflix.code-workspace
+zup-challenger.code-workspace
 
 ### Mac ###
 .DS_Store
